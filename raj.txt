@@ -1,2 +1,4 @@
    Hi this is first git command
    Hi this 2nd line in browser
+
+   this in local machine line
